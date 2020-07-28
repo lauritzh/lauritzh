@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Lauritz 👋
+![Header: Typing](https://github.com/lauritzh/lauritzh/blob/master/header.jpg)
+
+You may reach me on [Twitter](https://twitter.com/_lauritz_). 🙂
 
 <!--
 **lauritzh/lauritzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
