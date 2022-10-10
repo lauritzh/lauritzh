@@ -1,7 +1,7 @@
 ### Hi there, I'm Lauritz 👋
 ![Header: Typing](https://github.com/lauritzh/lauritzh/blob/master/header.jpg)
 
-You may reach me on [Twitter](https://twitter.com/_lauritz_). 🙂
+You may contact me via [Twitter](https://twitter.com/_lauritz_). 🙂
 
 **Disclaimer**: *Any information shared within this Github account must not be used with malicious intentions. Proof-of-Concepts and tools are shared for educational purposes only. Any malicious use will not hold the author responsible.*
 
